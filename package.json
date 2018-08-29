@@ -1,0 +1,17 @@
+{
+  "name": "rn-rpc",
+  "version": "1.0.0",
+  "description": "A simple JSON RPC server implementation.",
+  "main": "rpc.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "rpc",
+    "json-rpc",
+    "json",
+    "rn"
+  ],
+  "author": "Renze Nicolai",
+  "license": "GPL-3.0"
+}
